@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Nadira 👋  
+A Computer Science student passionate about learning and building.
 
-<!--
-**Nadira-Fairuza/Nadira-Fairuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Currently:
+- Practicing problem solving (Codeforces)
+- Learning data structures and algorithms
+- Building small 2D games using Godot
 
-Here are some ideas to get you started:
+💻 Skills:
+C++, Python, Godot, basic DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ About me:
+I enjoy turning simple ideas into interactive experiences and improving step by step.
+
+🎯 Goals:
+- Strengthen problem solving skills
+- Build meaningful projects
+- Grow as a developer
