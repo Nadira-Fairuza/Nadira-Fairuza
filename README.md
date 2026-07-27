@@ -11,8 +11,3 @@ C++, Python, Godot, basic DSA
 
 ✨ About me:
 I enjoy turning simple ideas into interactive experiences and improving step by step.
-
-🎯 Goals:
-- Strengthen problem solving skills
-- Build meaningful projects
-- Grow as a developer
