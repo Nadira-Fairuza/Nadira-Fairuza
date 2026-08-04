@@ -1,13 +1,5 @@
-Hi, I'm Nadira 👋  
-A Computer Science student passionate about learning and building.
+Hi, I'm Nadira 👋
 
-🔹 Currently:
-- Practicing problem solving (Codeforces)
-- Learning data structures and algorithms
-- Building small 2D games using Godot
+🎓 CSE Student @ AUST
 
-💻 Skills:
-C++, Python, Godot, basic DSA
-
-✨ About me:
-I enjoy turning simple ideas into interactive experiences and improving step by step.
+📚 Learning C++, Java, DSA, and OOP.
